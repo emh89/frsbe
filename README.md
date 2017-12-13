@@ -1,2 +1,1 @@
 # frsbe
-MSIT-IAPS FrSBe
